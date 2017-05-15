@@ -1,4 +1,4 @@
-This is a GitHub repository containing python scripts to convert Pascal VOC SBD labels to geoJson Labels for the SpaceNet competition. Note that this code works for the first SpaceNet competition over Rio de Janeiro.
+This is a GitHub repository containing python scripts to convert Pascal VOC SBD labels to geoJson Labels for the SpaceNet competition. Note that this code works for the first SpaceNet competition.
 
 Run the command:
 
